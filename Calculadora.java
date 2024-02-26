@@ -1,4 +1,4 @@
-import java.awt.BorderLayout;
+import java.awt.*;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
